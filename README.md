@@ -1,5 +1,7 @@
-PSA Codesprint EZPack
-====
+# Item_container
+Contains the project, for knowing and analysing how much products based on the size and dimension will fit into containers
+
+## Based on: PSA Codesprint EZPack
 https://github.com/teoks0199/codesprint
 
 ## Introduction
@@ -63,4 +65,3 @@ https://youtu.be/wADoxMlGi3s
 * https://github.com/enzoruiz/3dbinpacking
 * https://github.com/nmingotti/3dbinpacking
 * https://github.com/jerry800416/3D-bin-packing
-
